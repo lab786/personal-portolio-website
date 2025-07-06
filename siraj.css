@@ -1,0 +1,31 @@
+
+body{
+    background-color: blue;
+    color: aliceblue;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav ul{
+    display:flex;
+    justify-content: center;
+  height: 30px;
+  background-color: rgb(18, 18, 64);  
+}
+nav ul li{
+    list-style:none;
+    margin: 0 23px;
+}
+.left {
+    font-size: 1.5 rem;
+}
+.firstSection{
+    display:flex;
+    justify-content: space-around;
+    margin: 23px 0;
+}
+.purple{
+    color: blueviolet;
+}
